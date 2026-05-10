@@ -8,4 +8,5 @@ It also  focuses on the characterization and efficiency analysis of microencapsu
 ​Tools & Technologies Used
 ​Microsoft Excel: Advanced PivotTables for data aggregation and hierarchical grouping.
 ​Data Visualization: Comparative charting (Combo charts) with secondary axes for multi-variable analysis.
-​Data Analysis Techniques: Statistical grouping, outlier detection, and performance benchmarking
+​Data Analysis Techniques: Statistical grouping, outlier detection, and performance benchmarking.
+
